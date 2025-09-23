@@ -1,0 +1,49 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+}
+
+.logo{
+    background-color: black;
+    text-decoration: white 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.flix{
+    border: 2px white transparent;
+}
+
+#age{
+    background-color: greenyellow;
+}
+
+.flix:hover{
+    border: 2px solid white;
+}
+.navbar{
+    color: white;
+}
+
+.image-caption{
+    text-decoration: 45px solid black;
+}
+
+.continue{
+    background-color: black;
+}
+
+.image{
+    display: flex;
+    margin: 50px;
+
+}
+
+#photo:hover{
+    border: 2px solid white;
+}
+
+.button{
+    background-color: white;
+}
